@@ -1,22 +1,5 @@
 Ticker,Company,PE Ratio,Profit Margin,Mean Rating,Recommendation,No. of Analysts,Market Cap,Country,Industry
-ADYEY,Adyen NV,53.19,41.07%,2.02,Hold,43,$49206.5B,NL,Financial Services
-AAGIY,AIA Group Ltd,95.39,30.14%,1.59,Buy,29,$652100.6B,HK,Insurance
-AIQUY,L'Air Liquide Societe Anonyme pour l'Etude et l'Exploitation des Procedes Georges Claude SA,31.9,12.22%,1.97,Buy,32,$105466.6B,FR,Chemicals
-EADSY,Airbus SE,29.62,6.11%,1.96,Buy,25,$125358.2B,NL,Aerospace & Defense
-BABA,Alibaba Group Holding Ltd,3.74,8.47%,1.69,Buy,49,$298219.3B,HK,Retail
-GOOGL,Alphabet Inc,18.59,28.6%,1.95,Buy,64,$1.9T,US,Media
-AMZN,Amazon.com Inc,34.74,9.29%,1.8,Buy,79,$2.0T,US,Retail
-AAPL,Apple Inc,31.62,23.97%,2.11,Hold,56,$3.0T,US,Technology
-ASML,ASML Holding NV,32.28,26.79%,2.0,Buy,42,$244424.6B,NL,Semiconductors
-AVGO,Broadcom Inc,165.83,11.43%,1.83,Buy,46,$978945.7B,US,Semiconductors
-BYDDY,BYD Co Ltd,27.09,5.18%,1.6,Buy,35,$1.1T,CN,Automobiles
-CODYY,Compagnie de Saint Gobain SA,17.07,6.11%,2.04,Hold,23,$48537.6B,FR,Building
-JD,JD.Com Inc,8.12,3.57%,1.76,Buy,37,$335775.2B,CN,Retail
-MPNGY,Meituan,24.13,10.61%,1.79,Buy,47,$863919.1B,CN,"Hotels, Restaurants & Leisure"
-MSFT,Microsoft Corp,37.0,35.96%,1.79,Buy,66,$3.3T,US,Technology
-NVDA,NVIDIA Corp,39.03,55.85%,1.8,Buy,70,$2.8T,US,Semiconductors
-PDD,PDD Holdings Inc,1.36,28.55%,1.95,Buy,44,$152996.9B,IE,Retail
-PNGAY,Ping An Insurance Group Co of China Ltd,6.96,15.32%,1.82,Buy,22,$881089.8B,CN,Insurance
-TCEHY,Tencent Holdings Ltd,23.25,29.39%,1.74,Buy,54,$4.5T,CN,Media
-TSM,Taiwan Semiconductor Manufacturing Co Ltd,20.29,40.54%,1.74,Buy,39,$23.8T,TW,Semiconductors
-TCOM,Trip.com Group Ltd,18.77,32.02%,1.59,Buy,27,$320264.4B,SG,"Hotels, Restaurants & Leisure"
+GELYY,Geely Automobile Holdings Ltd,12.33,6.92%,1.66,Buy,38,$202603.1B,HK,Automobiles
+LI,Li Auto Inc,28.83,5.56%,1.79,Buy,34,$240421.1B,CN,Automobiles
+NIO,NIO Inc,N/A,-34.47%,2.48,Hold,29,$8223.5B,CN,Automobiles
+XPEV,Xpeng Inc,N/A,-14.17%,2.19,Hold,31,$21177.0B,CN,Automobiles
