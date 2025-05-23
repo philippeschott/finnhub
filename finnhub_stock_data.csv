@@ -1,2 +1,6 @@
 Ticker,Company,PE Ratio,Profit Margin,Mean Rating,Recommendation,No. of Analysts,Market Cap,Country,Industry
-FUTU,Futu Holdings Ltd,0.89,40.05%,1.82,Buy,22,$10349.4B,HK,Financial Services
+AUR,Aurora Innovation Inc,N/A,-2533.82%,2.23,Hold,13,$10666.3B,US,Technology
+HSAI,Hesai Group,N/A,-25.36%,1.75,Buy,20,$2758.3B,CN,Auto Components
+MBLY,Mobileye Global Inc,N/A,-186.82%,2.29,Hold,34,$12983.8B,IL,Auto Components
+PONY,Pony AI Inc,N/A,-365.37%,1.7,Buy,10,$6056.6B,CN,Technology
+WRD,WeRide Inc,N/A,-696.92%,2.0,Buy,6,$2825.7B,CN,Auto Components
