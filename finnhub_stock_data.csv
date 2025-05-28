@@ -1,6 +1,8 @@
 Ticker,Company,PE Ratio,Profit Margin,Mean Rating,Recommendation,No. of Analysts,Market Cap,Country,Industry
-AUR,Aurora Innovation Inc,N/A,-2533.82%,2.23,Hold,13,$10666.3B,US,Technology
-HSAI,Hesai Group,N/A,-25.36%,1.75,Buy,20,$2758.3B,CN,Auto Components
-MBLY,Mobileye Global Inc,N/A,-186.82%,2.29,Hold,34,$12983.8B,IL,Auto Components
-PONY,Pony AI Inc,N/A,-365.37%,1.7,Buy,10,$6056.6B,CN,Technology
-WRD,WeRide Inc,N/A,-696.92%,2.0,Buy,6,$2825.7B,CN,Auto Components
+SIMO,Silicon Motion Technology Corp,24.04,11.11%,2.06,Hold,16,$2146.1B,HK,Semiconductors
+SNY,Sanofi SA,19.7,12.97%,2.0,Buy,29,$113157.9B,FR,Pharmaceuticals
+BNPQY,BNP Paribas SA,7.46,14.57%,2.29,Hold,24,$87224.2B,FR,Banking
+DHLGY,Deutsche Post AG,13.38,3.96%,2.32,Hold,25,$44568.5B,DE,Logistics & Transportation
+RNLSY,Renault SA,18.51,1.34%,2.21,Hold,24,$13923.0B,FR,Automobiles
+BNTGY,Brenntag SE,15.65,3.3%,2.38,Hold,26,$8391.7B,DE,Trading Companies & Distributors
+SOAGY,Sartorius AG,163.83,2.48%,2.14,Hold,7,$13761.7B,DE,Life Sciences Tools & Services
